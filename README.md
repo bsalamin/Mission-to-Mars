@@ -9,6 +9,7 @@ The objective of this project was to:
 * Create an HTML/CSS portfolio to showcase projects.
 * Use Bootstrap components to polish and customize the portfolio.
 
+## Results
 The final product was a web app to centralize and display data, images, and current news regarding a Mission To Mars.
 
 ![Screen Shot 2022-05-08 at 9 05 41 PM](https://user-images.githubusercontent.com/100387078/167324442-eb55a16c-173b-49e0-8bf8-5e6cc7264d8c.png)
